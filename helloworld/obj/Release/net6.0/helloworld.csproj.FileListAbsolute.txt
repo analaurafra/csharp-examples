@@ -1,0 +1,15 @@
+C:\workspace\dotnet- framework\csharp-examples\helloworld\bin\Release\net6.0\helloworld.exe
+C:\workspace\dotnet- framework\csharp-examples\helloworld\bin\Release\net6.0\helloworld.deps.json
+C:\workspace\dotnet- framework\csharp-examples\helloworld\bin\Release\net6.0\helloworld.runtimeconfig.json
+C:\workspace\dotnet- framework\csharp-examples\helloworld\bin\Release\net6.0\helloworld.dll
+C:\workspace\dotnet- framework\csharp-examples\helloworld\bin\Release\net6.0\ref\helloworld.dll
+C:\workspace\dotnet- framework\csharp-examples\helloworld\bin\Release\net6.0\helloworld.pdb
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.csproj.AssemblyReference.cache
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.AssemblyInfoInputs.cache
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.AssemblyInfo.cs
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.dll
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\ref\helloworld.dll
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.pdb
+C:\workspace\dotnet- framework\csharp-examples\helloworld\obj\Release\net6.0\helloworld.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp6.0",
+    "framework": {
+      "name": "Mic6.0.0"
+    }
+  }
+}
